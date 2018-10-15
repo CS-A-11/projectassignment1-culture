@@ -1,4 +1,4 @@
-# projectassignment1-daraz-pk
+# projectassignment1-culture
 
 
 Group members:
@@ -11,7 +11,5 @@ L16-4302
 
 Web app link:
 
-https://evening-caverns-36051.herokuapp.com/
+https://culture660.herokuapp.com/
 
-Route link:
-https://evening-caverns-36051.herokuapp.com/cool
