@@ -46,8 +46,8 @@ Hooria:
 •	UI
 •	Models
 Mahnoor and Nimra:
-•	Customer
-•	Cart
+•	Customer.
+•	Cart.
 
 
 
